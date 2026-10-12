@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://workline-sl.github.io/sitemap.xml
